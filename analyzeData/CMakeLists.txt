@@ -2,7 +2,7 @@ cmake_minimum_required( VERSION 2.8 )
 
 set( CMAKE_CXX_FLAGS "-std=c++11" )
 
-find_package( DART )
+find_package( DART  REQUIRED )
 
 
 include_directories( ${DART_INCLUDE_DIRS} )
