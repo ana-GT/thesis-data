@@ -1,0 +1,13 @@
+cubic_6_6_6 /home/ana/Research/thesis-data/sq_shapes_data/cubic_6_6_6_graspfiles.txt
+cubic_9_9_9 /home/ana/Research/thesis-data/sq_shapes_data/cubic_9_9_9_graspfiles.txt
+cubic_cylinder_10_10_14 /home/ana/Research/thesis-data/sq_shapes_data/cubic_cylinder_10_10_14_graspfiles.txt
+cubic_cylinder_7_7_10 /home/ana/Research/thesis-data/sq_shapes_data/cubic_cylinder_7_7_10_graspfiles.txt
+cylinder_5_5_12 /home/ana/Research/thesis-data/sq_shapes_data/cylinder_5_5_12_graspfiles.txt
+cylinder_8_8_24 /home/ana/Research/thesis-data/sq_shapes_data/cylinder_8_8_24_graspfiles.txt
+ellipsoid_5_5_6 /home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6_graspfiles.txt
+ellipsoid_7_7_8 /home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_7_7_8_graspfiles.txt
+ellipsoid_9_9_12_a /home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_9_9_12_a_graspfiles.txt
+ellipsoid_9_9_12_b /home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_9_9_12_b_graspfiles.txt
+sphere_11_11_11 /home/ana/Research/thesis-data/sq_shapes_data/sphere_11_11_11_graspfiles.txt
+sphere_7_7_7 /home/ana/Research/thesis-data/sq_shapes_data/sphere_7_7_7_graspfiles.txt
+sphere_9_9_9 /home/ana/Research/thesis-data/sq_shapes_data/sphere_9_9_9_graspfiles.txt

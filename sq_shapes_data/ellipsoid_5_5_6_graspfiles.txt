@@ -1,0 +1,9 @@
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_7.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_2.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_0.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_3.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_5.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_4.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_1.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_8.txt
+/home/ana/Research/thesis-data/sq_shapes_data/ellipsoid_5_5_6/ellipsoid_5_5_6_6.txt
