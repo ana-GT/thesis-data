@@ -7,7 +7,8 @@
 #include <aoi/GraspitCommUnit.h>
 #include <dart/math/Geometry.h>
 
-std::string allTxt("/home/ana/Research/thesis-data/sq_shapes_data/all_objects_graspfiles.txt");
+//std::string allTxt("/home/ana/Research/thesis-data/sq_shapes_data/all_objects_graspfiles.txt");
+std::string allTxt("/home/ana/Research/thesis-data/ch3_9_data/all_objects_graspfiles.txt");
 
 struct GEI {
  GraspEvaluation ge;
@@ -79,6 +80,7 @@ int main( int argc, char* argv[] ) {
 
   // Read
   std::string name, directory;
+  int count; double mean_success; double stdev_success;
 
   while( !input.eof() ) {
     input >> name >> directory;
@@ -92,16 +94,34 @@ int main( int argc, char* argv[] ) {
 
     double maxPf = 0; int maxPfIndex = 0;
     double maxAvgEpsilon = 0; int maxAvgIndex;    double maxEpsilon = 0; int maxIndex = 0;
-    int count = 0; double avg_success = 0;
+
+    count = 0; mean_success = 0; stdev_success = 0;
+
+    std::vector<double> probs; double pf;
     for( int i = 0; i < ges.size(); ++i ) {
-       if( ges[i].ge.epsilon > 0.001 ) { count++; avg_success += ges[i].ge.numSuccesses/(double)ges[i].ge.numberSamples; }
-       double pf = ges[i].ge.numSuccesses/(double)ges[i].ge.numberSamples;
+ 
+      if( ges[i].ge.epsilon > 0.001 ) { 
+         pf = ges[i].ge.numSuccesses/(double)ges[i].ge.numberSamples;
+         probs.push_back( pf );
+         count++; mean_success += pf; 
+       }
        if( ges[i].ge.avg_epsilon > maxAvgEpsilon ) { maxAvgEpsilon = ges[i].ge.avg_epsilon; maxAvgIndex = i; }       
        if( ges[i].ge.epsilon > maxEpsilon ) { maxEpsilon = ges[i].ge.epsilon; maxIndex = i; }
        if( pf > maxPf ) { maxPf = pf; maxPfIndex = i; } 
    }
 
-    std::cout << " Successes in all grasps for "<< name << ": "<< count<<"/"<< ges.size()<<" avg success: "<< avg_success/count << std::endl;
+   // Calculate average success
+   mean_success = mean_success / count;
+   // Calculate standard deviation
+   for( int i = 0; i < count; ++i ) {
+     stdev_success += pow( (probs[i] - mean_success), 2 );     
+   }   
+   stdev_success = stdev_success/count;
+   stdev_success = sqrt( stdev_success );
+
+   // Calculate standard deviation
+
+    std::cout << " Successes in all grasps for "<< name << ": "<< count<<"/"<< ges.size()<<"( "<< (double)count/ges.size() <<") avg success: "<< mean_success << " stdev: "<< stdev_success << std::endl;
     std::cout << "Max avg epsilon: ("<<maxAvgIndex<<"): "<< maxAvgEpsilon << " pf: "<<ges[maxAvgIndex].ge.numSuccesses/(double)ges[maxAvgIndex].ge.numberSamples<< ", skewness: "<< ges[maxAvgIndex].ge.skewness << std::endl; 
     std::cout << "Max     epsilon: ("<<maxIndex<<"): "<< maxEpsilon << " pf: "<<ges[maxIndex].ge.numSuccesses/(double)ges[maxIndex].ge.numberSamples<< ", skewness: "<< ges[maxIndex].ge.skewness << std::endl; 
     std::cout << "Max Pf: ("<< maxPfIndex<<"): "<< maxPf << " epsilon: "<< ges[maxPfIndex].ge.epsilon << " avg epsilon: "<< ges[maxPfIndex].ge.avg_epsilon << ", skewness: "<< ges[maxPfIndex].ge.skewness << std::endl;

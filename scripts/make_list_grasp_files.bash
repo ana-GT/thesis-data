@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA_DIR="/home/ana/Research/thesis-data/sq_shapes_data"
+DATA_DIR="/home/ana/Research/thesis-data/ch3_9_data"
 DIR="${DATA_DIR}/${1}"
 
 cd $DATA_DIR;
