@@ -1,0 +1,14 @@
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_2.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_7.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_3.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_10.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_9.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_8.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_5.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_0.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_12.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_11.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_13.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_6.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_4.txt
+/home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored/mike_monster_mirrored_1.txt

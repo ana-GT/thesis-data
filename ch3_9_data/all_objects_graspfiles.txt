@@ -1,0 +1,9 @@
+brine_ball_mirrored /home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored_graspfiles.txt
+cheezit_mirrored /home/ana/Research/thesis-data/ch3_9_data/cheezit_mirrored_graspfiles.txt
+master_chef_coffee_mirrored /home/ana/Research/thesis-data/ch3_9_data/master_chef_coffee_mirrored_graspfiles.txt
+mike_monster_mirrored /home/ana/Research/thesis-data/ch3_9_data/mike_monster_mirrored_graspfiles.txt
+pringles_mirrored /home/ana/Research/thesis-data/ch3_9_data/pringles_mirrored_graspfiles.txt
+soft_scrub_mirrored /home/ana/Research/thesis-data/ch3_9_data/soft_scrub_mirrored_graspfiles.txt
+sun_maid_raisins_mirrored /home/ana/Research/thesis-data/ch3_9_data/sun_maid_raisins_mirrored_graspfiles.txt
+white_cup_mirrored /home/ana/Research/thesis-data/ch3_9_data/white_cup_mirrored_graspfiles.txt
+yellow_cone_mirrored /home/ana/Research/thesis-data/ch3_9_data/yellow_cone_mirrored_graspfiles.txt

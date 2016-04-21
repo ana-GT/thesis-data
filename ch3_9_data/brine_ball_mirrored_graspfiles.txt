@@ -1,0 +1,16 @@
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_2.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_9.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_13.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_1.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_3.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_10.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_6.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_4.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_11.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_12.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_7.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_15.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_8.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_14.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_0.txt
+/home/ana/Research/thesis-data/ch3_9_data/brine_ball_mirrored/brine_ball_mirrored_5.txt
