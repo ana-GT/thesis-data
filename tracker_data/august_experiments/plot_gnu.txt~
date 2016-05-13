@@ -1,0 +1,13 @@
+splot "liberty_Wednesday_04_23_31.txt" using 1:2:3 with lines #,"liberty_Wednesday_04_23_31.txt" using 9:10:11 with lines,"liberty_Wednesday_04_23_31.txt" using 17:18:19 with lines
+
+splot "liberty_Wednesday_04_23_31.txt" using 1:2:3 with lines
+
+# Hand, I suppose
+splot "liberty_1.txt" using 1:2:3 with lines, "liberty_2.txt" using 1:2:3 with lines, "liberty_3.txt" using 1:2:3 with lines, "liberty_4.txt" using 1:2:3 with lines, "liberty_5.txt" using 1:2:3 with lines, "liberty_6.txt" using 1:2:3 with lines, "liberty_7.txt" using 1:2:3 with lines, "liberty_8.txt" using 1:2:3 with lines, "liberty_9.txt" using 1:2:3 with lines, "liberty_10.txt" using 1:2:3 with lines, "liberty_11.txt" using 1:2:3 with lines,"liberty_12.txt" using 1:2:3 with lines
+
+# Object
+splot "liberty_1.txt" using 9:10:11 with lines, "liberty_2.txt" using 9:10:11 with lines, "liberty_3.txt" using 9:10:11 with lines, "liberty_4.txt" using 9:10:11 with lines, "liberty_5.txt" using 9:10:11 with lines, "liberty_6.txt" using 9:10:11 with lines, "liberty_7.txt" using 9:10:11 with lines, "liberty_8.txt" using 9:10:11 with lines, "liberty_9.txt" using 9:10:11 with lines, "liberty_10.txt" using 9:10:11 with lines, "liberty_11.txt" using 9:10:11 with lines,"liberty_12.txt" using 9:10:11 with lines
+
+
+ plot "angle_1.txt" with lines, "angle_2.txt" with lines, "angle_3.txt" with lines, "angle_4.txt" with lines, "angle_5.txt" with lines, "angle_6.txt" with lines, "angle_7.txt" with lines, "angle_8.txt" with lines, "angle_9.txt" with lines,"angle_10.txt" with lines, "angle_11.txt" with lines, "angle_12.txt" with lines, "angle_13.txt" with lines
+

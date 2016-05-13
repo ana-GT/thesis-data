@@ -1,0 +1,55 @@
+# Hand 0
+splot "right_bowl_0/right_0_1.txt" using 2:3:4 every 3::0 with lines,"right_bowl_0/right_0_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_0/right_0_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_0/right_0_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_0/right_0_5.txt" using 2:3:4 every 3::0 with lines, "right_bowl_0/right_0_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_0/right_0_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_0/right_0_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 0
+splot "right_bowl_0/right_0_1.txt" using 2:3:4 every 3::1 with lines,"right_bowl_0/right_0_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_0/right_0_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_0/right_0_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_0/right_0_5.txt" using 2:3:4 every 3::1 with lines, "right_bowl_0/right_0_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_0/right_0_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_0/right_0_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 1
+splot "right_bowl_1/right_1_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_1/right_1_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_1/right_1_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_1/right_1_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_1/right_1_5.txt" using 2:3:4 every 3::0 with lines, "right_bowl_1/right_1_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_1/right_1_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_1/right_1_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 1
+splot "right_bowl_1/right_1_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_1/right_1_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_1/right_1_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_1/right_1_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_1/right_1_5.txt" using 2:3:4 every 3::1 with lines, "right_bowl_1/right_1_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_1/right_1_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_1/right_1_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 2
+splot "right_bowl_2/right_2_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_2/right_2_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_2/right_2_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_2/right_2_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_2/right_2_5.txt" using 2:3:4 every 3::0 with lines, "right_bowl_2/right_2_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_2/right_2_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_2/right_2_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 2
+splot "right_bowl_2/right_2_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_2/right_2_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_2/right_2_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_2/right_2_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_2/right_2_5.txt" using 2:3:4 every 3::1 with lines, "right_bowl_2/right_2_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_2/right_2_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_2/right_2_8.txt" using 2:3:4 every 3::1 with lines
+
+
+# Hand 3
+splot "right_bowl_3/right_3_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_3/right_3_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_3/right_3_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_3/right_3_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_3/right_3_5.txt" using 2:3:4 every 3::0 with lines, "right_bowl_3/right_3_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_3/right_3_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_3/right_3_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 3
+splot "right_bowl_3/right_3_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_3/right_3_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_3/right_3_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_3/right_3_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_3/right_3_5.txt" using 2:3:4 every 3::1 with lines, "right_bowl_3/right_3_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_3/right_3_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_3/right_3_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 4
+splot "right_bowl_4/right_4_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_4/right_4_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_4/right_4_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_4/right_4_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_4/right_4_5.txt" using 2:3:4 every 3::0 with lines, "right_bowl_4/right_4_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_4/right_4_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_4/right_4_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 4
+splot "right_bowl_4/right_4_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_4/right_4_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_4/right_4_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_4/right_4_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_4/right_4_5.txt" using 2:3:4 every 3::1 with lines, "right_bowl_4/right_4_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_4/right_4_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_4/right_4_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 5
+splot "right_bowl_5/right_5_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_5/right_5_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_5/right_5_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_5/right_5_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_5/right_5_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_5/right_5_6.txt" using 2:3:4 every 3::0 with lines,"right_bowl_5/right_5_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_5/right_5_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 5
+splot "right_bowl_5/right_5_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_5/right_5_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_5/right_5_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_5/right_5_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_5/right_5_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_5/right_5_6.txt" using 2:3:4 every 3::1 with lines,"right_bowl_5/right_5_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_5/right_5_8.txt" using 2:3:4 every 3::1 with lines
+
+
+# Hand 6
+splot "right_bowl_6/right_6_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_6/right_6_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_6/right_6_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_6/right_6_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_6/right_6_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_6/right_6_5.txt" using 2:3:4 every 3::0 with lines,"right_bowl_6/right_6_7.txt" using 2:3:4 every 3::0 with lines, "right_bowl_6/right_6_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 6
+splot "right_bowl_6/right_6_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_6/right_6_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_6/right_6_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_6/right_6_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_6/right_6_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_6/right_6_5.txt" using 2:3:4 every 3::1 with lines,"right_bowl_6/right_6_7.txt" using 2:3:4 every 3::1 with lines, "right_bowl_6/right_6_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 7
+splot "right_bowl_7/right_7_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_7/right_7_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_7/right_7_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_7/right_7_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_7/right_7_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_7/right_7_5.txt" using 2:3:4 every 3::0 with lines,"right_bowl_7/right_7_6.txt" using 2:3:4 every 3::0 with lines, "right_bowl_7/right_7_8.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 7
+splot "right_bowl_7/right_7_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_7/right_7_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_7/right_7_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_7/right_7_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_7/right_7_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_7/right_7_5.txt" using 2:3:4 every 3::1 with lines,"right_bowl_7/right_7_6.txt" using 2:3:4 every 3::1 with lines, "right_bowl_7/right_7_8.txt" using 2:3:4 every 3::1 with lines
+
+# Hand 8
+splot "right_bowl_8/right_8_0.txt" using 2:3:4 every 3::0 with lines,"right_bowl_8/right_8_1.txt" using 2:3:4 every 3::0 with lines, "right_bowl_8/right_8_2.txt" using 2:3:4 every 3::0 with lines, "right_bowl_8/right_8_3.txt" using 2:3:4 every 3::0 with lines, "right_bowl_8/right_8_4.txt" using 2:3:4 every 3::0 with lines, "right_bowl_8/right_8_5.txt" using 2:3:4 every 3::0 with lines,"right_bowl_8/right_8_6.txt" using 2:3:4 every 3::0 with lines, "right_bowl_8/right_8_7.txt" using 2:3:4 every 3::0 with lines
+
+# Bottle 8
+splot "right_bowl_8/right_8_0.txt" using 2:3:4 every 3::1 with lines,"right_bowl_8/right_8_1.txt" using 2:3:4 every 3::1 with lines, "right_bowl_8/right_8_2.txt" using 2:3:4 every 3::1 with lines, "right_bowl_8/right_8_3.txt" using 2:3:4 every 3::1 with lines, "right_bowl_8/right_8_4.txt" using 2:3:4 every 3::1 with lines, "right_bowl_8/right_8_5.txt" using 2:3:4 every 3::1 with lines,"right_bowl_8/right_8_6.txt" using 2:3:4 every 3::1 with lines, "right_bowl_8/right_8_7.txt" using 2:3:4 every 3::1 with lines
